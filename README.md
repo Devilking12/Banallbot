@@ -1,4 +1,4 @@
-# Banall bot
+# 𓆩〭⃛〬🥀🇩𝜠𝙑𝙄𝙇 🇼𝙊𝙍𝙇𝘿🇮🇳‌🇧𝗮𝗻🇦𝗹𝗹 🇧𝘰𝘵
 
 Telegram Ban all Bot Which can Remove All members easily ...
 
