@@ -1,8 +1,8 @@
 {
-    "name": "Ban all",
+    "name": "𓆩〭⃛〬🥀🇩𝜠𝙑𝙄𝙇 🇼𝙊𝙍𝙇𝘿🇮🇳‌🇧𝗮𝗻🇦𝗹𝗹 🇧𝘰𝘵",
     "description": "Power Packed Banall Within Seconds.",
-    "keywords": ["Zaid", "banall"],
-    "repository": "https://github.com/ITZ-ZAID/Banall",
+    "keywords": ["Devil", "banall"],
+    "repository": "https://github.com/Devilking12/Banallbot",
   "stack": "container",
     "env": {
         "TELEGRAM_TOKEN": {
